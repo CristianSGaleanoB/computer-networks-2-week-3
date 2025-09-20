@@ -89,7 +89,7 @@
             <artifactId>exec-maven-plugin</artifactId>
             <version>3.1.0</version>
             <configuration>
-              <mainClass>com.cristian.networks.Server</mainClass> <!-- Replace with your server main class -->
+              <mainClass>com.cristian.networks.Server</mainClass>
             </configuration>
           </plugin>
         </plugins>
@@ -104,7 +104,7 @@
             <artifactId>exec-maven-plugin</artifactId>
             <version>3.1.0</version>
             <configuration>
-              <mainClass>com.cristian.networks.Client</mainClass> <!-- Replace with your client main class -->
+              <mainClass>com.cristian.networks.Client</mainClass> 
             </configuration>
           </plugin>
         </plugins>
